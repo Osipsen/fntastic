@@ -1,0 +1,15 @@
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\FNTASTIC.exe
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\FNTASTIC.deps.json
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\FNTASTIC.runtimeconfig.json
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\FNTASTIC.dll
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\ref\FNTASTIC.dll
+D:\FNTASTIC\FNTASTIC\bin\Debug\net6.0\FNTASTIC.pdb
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.csproj.AssemblyReference.cache
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.AssemblyInfoInputs.cache
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.AssemblyInfo.cs
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.csproj.CoreCompileInputs.cache
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.dll
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\ref\FNTASTIC.dll
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.pdb
+D:\FNTASTIC\FNTASTIC\obj\Debug\net6.0\FNTASTIC.genruntimeconfig.cache
